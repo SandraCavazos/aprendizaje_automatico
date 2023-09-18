@@ -1,6 +1,7 @@
 # <p align="center"> UANL - FCFM: Aprendizaje Automático </p>
 ### <p align="center"> Sandra María Cavazos Huerta </p>
 
+Este repositorio está creado con el fin de compilar los análisis y recursos utilizados para aprendizaje automático.
 
 ## Contenido
 
