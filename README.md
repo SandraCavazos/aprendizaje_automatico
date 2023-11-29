@@ -11,4 +11,8 @@ Este repositorio está creado con el fin de compilar los análisis y recursos ut
 - [Tarea 4.](https://github.com/SandraCavazos/aprendizaje_automatico/blob/main/Tarea4.ipynb)  Selección de carcterísticas.
 - [Tarea 5.](https://github.com/SandraCavazos/aprendizaje_automatico/blob/main/Tarea5.ipynb)  No Supervisado.
 - [Tarea 6.](https://github.com/SandraCavazos/aprendizaje_automatico/blob/main/Tarea6.ipynb)  Supervisado.
+- Tarea 7. Hackaton.
+- Tarea 8. Regresión.
+- Tarea 9. [Avance artículo.](https://github.com/SandraCavazos/aprendizaje_automatico/blob/main/Tarea9.AvanceProyecto.pdf) [Resultados](https://github.com/SandraCavazos/aprendizaje_automatico/blob/main/Tarea9.ipynb)
+- [Tarea 10.](https://github.com/SandraCavazos/aprendizaje_automatico/blob/main/Proyecto_ArtículoFinal.pdf)  Artículo final.
 
